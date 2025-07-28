@@ -15,14 +15,14 @@
     "autoClean": true,
     "ACCESSTOKEN": "",
     "BOTNAME": "elaina",
-    "AMDIN_NAME": "Nguyen Tran Ly:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/nguyen.tran.ly.463092/",
+    "AMDIN_NAME": "Tran Duy Nghia:",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1RL57xqrYf/?mibextid=wwXIfr",
     "PREFIX": ".",
     "ADMINBOT": [
-        "61550281761987"
+        "61567884417469"
     ],
     "NDH": [
-        "61567884417469"
+        ""
     ],
     "DATABASE": {
         "sqlite": {
