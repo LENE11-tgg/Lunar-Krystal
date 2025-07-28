@@ -5,7 +5,7 @@
     "MAINTENANCE_MODE": false,
     "iconUnsend": {
         "status": true,
-        "icon": "❤"
+        "icon": "😡"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
@@ -14,15 +14,15 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Lương Trường Khôi",
-    "AMDIN_NAME": "Có lỗi báo mình fix qua link bên dưới:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/100018277053087",
-    "PREFIX": "/",
+    "BOTNAME": "elaina",
+    "AMDIN_NAME": "Nguyen Tran Ly:",
+    "FACEBOOK_ADMIN": "https://www.facebook.com/nguyen.tran.ly.463092/",
+    "PREFIX": ".",
     "ADMINBOT": [
-        "100018277053087"
+        "61550281761987"
     ],
     "NDH": [
-        "100018277053087"
+        "61567884417469"
     ],
     "DATABASE": {
         "sqlite": {
