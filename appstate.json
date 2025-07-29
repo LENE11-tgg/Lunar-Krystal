@@ -1,1 +1,74 @@
-
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261550281761987%22%3A%22o91CJamu%22%2C%2261576967601502%22%3A%22osgKxpZA%22%2C%22100078581187793%22%3A%22ucnliIcx%22%2C%2261578344922308%22%3A%22OqSGuy20%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.469Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "sb",
+		"value": "GBeDaMPDaKqNDhn5JmwW_Q-Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.470Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "dpr",
+		"value": "1.125",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.470Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "wd",
+		"value": "1647x756",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.470Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100078581187793",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.470Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "xs",
+		"value": "8%3A-22pOm-W_bmZHQ%3A2%3A1753760778%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.470Z",
+		"lastAccessed": "2025-07-29T03:46:35.470Z"
+	},
+	{
+		"key": "fr",
+		"value": "1xTBnEFwcQlXTzQma.AWeN7WSzQUKoee3Ri6kbWrjXy0ncluQKogZEe-lCsObpWjsx1B0.Boh39k..AAA.0.0.BoiEQM.AWc1DLhKte32zoSYfjpJRrbv4n4",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.471Z",
+		"lastAccessed": "2025-07-29T03:46:35.471Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1753760792588%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T03:46:35.471Z",
+		"lastAccessed": "2025-07-29T03:46:35.471Z"
+	}
+]
