@@ -1,79 +1,92 @@
-{
-    "language": "vi",
-    "DeveloperMode": false,
-    "autoCreateDB": true,
-    "MAINTENANCE_MODE": false,
-    "iconUnsend": {
-        "status": true,
-        "icon": "😡"
-    },
-    "notiGroup": false,
-    "NOTIFICATION": true,
-    "allowInbox": false,
-    "commandDisabled": [],
-    "eventDisabled": [],
-    "autoClean": true,
-    "ACCESSTOKEN": "",
-    "BOTNAME": "elaina",
-    "AMDIN_NAME": "Tran Duy Nghia:",
-    "FACEBOOK_ADMIN": "https://www.facebook.com/share/1RL57xqrYf/?mibextid=wwXIfr",
-    "PREFIX": ".",
-    "ADMINBOT": [
-        "61567884417469"
-    ],
-    "NDH": [
-        ""
-    ],
-    "DATABASE": {
-        "sqlite": {
-            "storage": "antists.sqlite"
-        }
-    },
-    "APPSTATEPATH": "appstate.json",
-    "FCAOption": {
-        "forceLogin": true,
-        "listenEvents": true,
-        "pauseLog": true,
-        "logLevel": "error",
-        "selfListen": true,
-        "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 15_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Mobile/15E148 Safari/604.1"
-    },
-    "version": "2.7.12",
-    "menu": {
-        "autoUnsend": {
-            "status": true,
-            "timeOut": 90
-        },
-        "delayUnsend": 60
-    },
-    "log": {
-        "enable": true
-    },
-    "daily": {
-        "cooldownTime": 43200000,
-        "rewardCoin": 1000000
-    },
-    "anti": {
-        "autoUnsend": true,
-        "sendNoti": true,
-        "timeToUnsend": 10
-    },
-    "adminOnly": false,
-    "loto": {
-        "maxPlayers": 10,
-        "getDelay": 8
-    },
-    "cave": {
-        "cooldownTime": 86400
-    },
-    "farm": {
-        "cooldownTime": 300000
-    },
-    "help": {
-        "autoUnsend": true,
-        "delayUnsend": 60
-    },
-    "minecraft": {
-        "APIKEY": ""
-    }
-}
+[
+	{
+		"key": "dbln",
+		"value": "%7B%2261550281761987%22%3A%22o91CJamu%22%2C%2261576967601502%22%3A%22osgKxpZA%22%2C%22100078581187793%22%3A%221pRk6DJS%22%2C%2261578344922308%22%3A%22OqSGuy20%22%7D",
+		"domain": "facebook.com",
+		"path": "/login/device-based/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "ar_debug",
+		"value": "1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "sb",
+		"value": "GBeDaMPDaKqNDhn5JmwW_Q-Y",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "dpr",
+		"value": "1.125",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "wd",
+		"value": "1647x756",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "c_user",
+		"value": "100078581187793",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "datr",
+		"value": "RNWIaPXU5BpeAy_DyYEC8b0e",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "xs",
+		"value": "30%3Ayj5BRu4VCs_IRA%3A2%3A1753797956%3A-1%3A-1",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "fr",
+		"value": "10qgQ6oKmY3EUuqv7.AWdBhc39tYywhQQmar3RwNjWrvaCs88i2J9Z0n3IOczHWFfSNCU.BoiFyG..AAA.0.0.BoiNVH.AWeG0_x2OHLjclCyMsKP2TnBFq0",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	},
+	{
+		"key": "presence",
+		"value": "C%7B%22t3%22%3A%5B%5D%2C%22utc3%22%3A1753797970822%2C%22v%22%3A1%7D",
+		"domain": "facebook.com",
+		"path": "/",
+		"hostOnly": false,
+		"creation": "2025-07-29T14:06:42.195Z",
+		"lastAccessed": "2025-07-29T14:06:42.195Z"
+	}
+]
